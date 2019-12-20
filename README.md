@@ -16,4 +16,8 @@ ColorUI框架的GIT：https://github.com/weilanwl/ColorUI
 
 或者提交issues即可
 
+http://img.xmdeal.com/d/file/p/2019/03-24/4d717dd6fc49991e21046b6d9fb1e751.png
 
+http://img.xmdeal.com/d/file/p/2019/03-24/62cc35f7cc2d14dcf0b649f0303451ad.png
+
+src="http://img.xmdeal.com/d/file/p/2019/03-24/e677607b874ed14a1991f86afa102f66.png"
